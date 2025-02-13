@@ -1,0 +1,1 @@
+This is a hypothesis testing project that I've created to perform some analytics and statistical test to test hypothesis regarding the revenue increasing for cab provider named yellow trip as per their 2020 january data. The dataset can be found [here](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019 "Dataset").

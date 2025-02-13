@@ -1,0 +1,9 @@
+src
+.history/src
+.history
+.DS_Store
+.vscode
+data/cleaned_yellow_tripdata_2020_01.xlsx
+data/cleaned_yellow_tripdata_2020_01.csv
+data/yellow_tripdata_2020-01.csv
+data
